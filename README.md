@@ -7,6 +7,7 @@
 ---
 
  <h3 align="center">👨‍💻 Sobre Mim</h3>
+ 
 #### 🎱 Um dos maiores jogadores de sinuca encaçapando código no GitHub
 
 Sou um entusiasta da tecnologia, com uma abordagem séria, mas sem perder o bom humor. Após uma pausa estratégica, voltei para o jogo com foco total em **engenharia de software** e **segurança da informação**. 
